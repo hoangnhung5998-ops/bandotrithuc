@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Bản đồ Tri thức",
+  "description": "Nền tảng học Lịch sử \u0026 Địa lí lớp 4 bằng AI - Khám phá di sản Việt Nam qua công nghệ 4.0",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
